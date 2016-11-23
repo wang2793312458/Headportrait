@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorBlack">#1A1A1A</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorGrey">#9F9F9F</color>
+    <color name="colorTransparentGrey">#f2f2f2</color>
+    <color name="colorOrange">#F5A623</color>
+    <color name="colorTransparentBlack">#4D000000</color>
+    <color name="colorFont">#99FFFFFF</color>
+    <color name="colorBlue">#FF0064CA</color>
+    <color name="colorRed">#E00023</color>
+    <item name="gray_holo_dark" type="color">#ff464646</item>
+    <item name="gray_holo_light" type="color">#ffd0d0d0</item>
+    <color name="white">#ffffff</color>
+    <color name="gray">#cccccc</color>
+
+    <color name="drop_down_selected">#7B1FA2</color>
+    <color name="drop_down_unselected">#111111</color>
+
+    <color name="mask_color">#88888888</color>
+    <color name="check_bg">#f2f2f2</color>
+    <color name="un_press_color">#9C27B0</color>
+
+
+    <color name="black">#000000</color>
+    <color name="blue">#ffccddff</color>
+    <color name="grey">#58616d</color>
+    <color name="darkgrey">#ff404040</color>
+    <color name="toasterro">#9fd524</color>
+    <color name="lightgrey">#ff888888</color>
+    <color name="semitransparent">#80000000</color>
+    <color name="lightransparent">#a0000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="navpage">#FFE1E8EB</color>
+
+</resources>
